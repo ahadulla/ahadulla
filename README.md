@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ahadulla
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> my name is Ahadulla
 #### .NET Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadulla&label=Profile%20views&color=0e75b6&style=flat" alt="ahadulla" /> </p>
@@ -7,7 +7,7 @@
 - Website: http://Ahadulla.uz/
 - 📫 How to reach me: rahmonovahadulla@gmail.com 
 - 🌱 I’m currently learning **.NET**
-- ⚡ Skills: Python, C , MySql , Git , SOLID , RestApi, Clean architecture , MVC architecture, OOP 
+- ⚡ Skills: Python, C , MySql, PostgreSql, Git, SOLID, RestApi, Clean architecture, MVC architecture, OOP, Asp.net
 
 ### Connect with me:
 
