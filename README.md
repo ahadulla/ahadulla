@@ -19,10 +19,13 @@
 ### Skills:
 
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="git" width="22" height="22"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="c" width="22" height="22"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="22" height="22"/>
 
 </p>
 
