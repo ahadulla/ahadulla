@@ -29,13 +29,13 @@
 
 </p>
 
-<details>
+<!--<details>
   <summary> Show Ahadulla's Github Streak</summary>
   <br>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokucom?userapp.=ahadulla&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
-</details>
+</details>-->
 
 <details>
   <summary> Show Ahadulla's Github Stats</summary>
