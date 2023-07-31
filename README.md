@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> my name is Ahadulla
-#### .NET Developer
+#### I'm a .NET Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadulla&label=Profile%20views&color=0e75b6&style=flat" alt="ahadulla" /> </p>
 
@@ -7,7 +7,7 @@
 - Website: http://Ahadulla.uz/
 - 📫 How to reach me: rahmonovahadulla@gmail.com 
 - 🌱 I’m currently learning **.NET**
-- ⚡ Skills: Python, C , MySql, PostgreSql, Git, SOLID, RestApi, Clean architecture, MVC architecture, OOP, Asp.net
+- ⚡ Skills: Python, C , MySql, PostgreSql, Git, SOLID, RestApi, Clean architecture, MVC architecture, OOP, Asp.net, Wpf, WinForm
 
 ### Connect with me:
 
@@ -22,9 +22,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
-   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="22" height="22"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="22" height="22"/>
-     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="22" height="22"/>
 
 </p>
 
@@ -32,7 +30,7 @@
   <summary> Show Ahadulla's Github Streak</summary>
   <br>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahadulla&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokucom?userapp.=ahadulla&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
 </details>
 
