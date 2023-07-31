@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Ahadulla | Website" width="28px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />][telegram]
-[<img align="left" alt="Ahadulla | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+<!-- [<img align="left" alt="Ahadulla | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail] -->
 [<img align="left" alt="Ahadulla | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 <br>
 
