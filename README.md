@@ -6,7 +6,6 @@
 
 - Website: http://Ahadulla.uz/
 - How to reach me: rahmonovahadulla@gmail.com 
-- I’m currently learning **.NET**
 <!--- Skills: Python, C , MySql, PostgreSql, Git, SOLID, RestApi, Clean architecture, MVC architecture, OOP, Asp.net, Wpf, WinForm-->
 
 ### Connect with me:
